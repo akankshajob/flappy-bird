@@ -24,7 +24,7 @@ This project was built using the following technologies:
 
 ### 🕹️ How to Play
 
-
+* **Press the space bar** to make the bird jump. 🐦⬆️
 * **Avoid the pipes** to stay in the game. 🚫
 * **Score points** by passing through the gaps between the pipes. 💯
 * The game is over if you hit a pipe or fall. ☠️
